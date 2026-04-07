@@ -11,7 +11,7 @@
 
 * PHP (Laravel)
 * APIs REST
-* Integrações com marketplaces (ex: Mercado Livre)
+* Integrações com marketplaces (ex: Mercado Livre, Shopee, Magazine Luiza...)
 * MySQL
 
 ### 🎨 Frontend
