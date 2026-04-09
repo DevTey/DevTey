@@ -16,12 +16,6 @@ Foco em performance, automação e integrações com marketplaces (Mercado Livre
 
 ---
 
-### Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DevTey&show_icons=true&theme=github_dark&hide_border=true)
-
----
-
 ### Projetos
 
 - Automação e integrações com marketplaces
