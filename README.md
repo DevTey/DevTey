@@ -37,9 +37,9 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevTey&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevTey&show_icons=true&theme=github_dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTey&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTey&layout=compact&theme=github_dark&count_private=true)
 
 ---
 
