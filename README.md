@@ -1,67 +1,30 @@
-# 👋 Olá, eu sou o Thiago
+# Thiago · Full Stack Developer
 
-💻 Desenvolvedor Full Stack focado em performance, automação e integrações de APIs
-🚀 Experiência com e-commerce, marketplaces e sistemas escaláveis
-
----
-
-## 🧠 Stack Principal
-
-### 🔧 Backend
-
-* PHP (Laravel)
-* APIs REST
-* Integrações com marketplaces (ex: Mercado Livre, Shopee, Magazine Luiza...)
-* MySQL
-
-### 🎨 Frontend
-
-* React
-* JavaScript / TypeScript
-* HTML5 / CSS3
-
-### ⚙️ DevOps & Infra
-
-* Docker
-* AWS S3
-* VPS / Cloud
-* CI/CD
-
-### 🛠️ Ferramentas
-
-* Git & GitHub
-* Postman / Insomnia
-* Linux
+Foco em performance, automação e integrações com marketplaces (Mercado Livre, Shopee, Magazine Luiza).
 
 ---
 
-## 📊 Estatísticas
+### Stack
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DevTey&show_icons=true&theme=github_dark)
-
----
-
-## 🚀 Projetos em Destaque
-
-* 🔹 Automação para marketplaces
-* 🔹 Integração com APIs (pagamentos, logística, etc)
-* 🔹 Dashboards com métricas e campanhas
-* 🔹 Sistemas full stack com Laravel + React
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-## ⚡ Sobre mim
+### Stats
 
-* 🧩 Focado em resolver problemas reais com código
-* 📈 Buscando sempre otimizar performance e escalabilidade
-* 🤖 Interesse em automação e integrações complexas
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DevTey&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
 
-## 🐳 Ambiente de Desenvolvimento
+### Projetos
 
-```bash
-Docker + Laravel + React + MySQL
-```
-
----
+- Automação e integrações com marketplaces
+- APIs de pagamento e logística
+- Dashboards com métricas e campanhas
+- Sistemas full stack com Laravel + React
